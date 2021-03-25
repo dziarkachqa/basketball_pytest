@@ -1,1 +1,1 @@
-#This a  basketball src with the tests
+#This is the tests for the  basketball app
